@@ -1,1 +1,1 @@
-document.write(Array.from('khan'));
+document.write(Array.from('fayyaz'));
