@@ -1,6 +1,6 @@
-const l = ['fayyaz','danish','uziar','ayyaz']
+const z = ['fayyaz','danish','uziar','ayyaz']
 const h = ['umer','sahanawaz','uzair-ahmed']
-const j = (l.concat(h))
+const j = (z.concat(h))
 console.log(j)
 
 const g = ['fayyaz','danish']
