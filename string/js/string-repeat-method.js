@@ -1,2 +1,5 @@
 var a = "hlw i m fayyaz "
-document.write(a.repeat(100))
+document.write(a.repeat(10))
+document.write("<br>")
+var a = "khilji"
+document.write(a.repeat(10))
