@@ -13,8 +13,8 @@
 // // start
 // document.write("<hr>")
 
-// const c =  ['fayyaz','ayyyaz','adnan','danish']
-// document.write(c + "<br>")
-// c.fill(0,2,3);
-// document.write(c)
-// // end
+const c =  ['fayyaz','ayyyaz','adnan','danish']
+document.write(c + "<br>")
+c.fill(0,2,3);
+document.write(c)
+// end

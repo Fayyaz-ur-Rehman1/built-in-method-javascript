@@ -22,4 +22,4 @@
 
 var dd = [1,2,3,4,5,6,7,8,9,10,11];
 
-document.write(dd.copyWithin(0,4))
+document.write(dd.copyWithin(10,3))
