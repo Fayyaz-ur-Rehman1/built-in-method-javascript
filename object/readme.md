@@ -49,3 +49,4 @@
 [Object-Seal-Method](./js/object-seal-method.js)
 ---
 [Object-Set-Prototype-Of-Method](./js/object-setprototypeof-method.js)
+---

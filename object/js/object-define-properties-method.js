@@ -1,12 +1,11 @@
-const object1 = {};
-
-Object.defineProperties(object1, {
-  property1: {
-    value: 42,
-    writable: true
+var a = {}
+Object.defineProperties(a,{
+  fayyaz:{
+    value : "fayyazurrehman",
+    age : 8575 
   },
-  property2: {}
-});
-
-console.log(object1.property1.writable);
-// expected output: 42
+  danish :{
+ value : "danishchouhan"
+  }
+})
+document.write(a.fayyaz)
