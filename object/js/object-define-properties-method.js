@@ -2,7 +2,7 @@ var a = {}
 Object.defineProperties(a,{
   fayyaz:{
     value : "fayyazurrehman",
-    age : 8575 
+    writable : true
   },
   danish :{
  value : "danishchouhan"
