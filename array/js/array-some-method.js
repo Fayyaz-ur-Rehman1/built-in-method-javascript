@@ -1,6 +1,6 @@
-var a = [1,2,3,4,5];
-document.write(a.some(fayyaz))
+var b = [1,2,3,4,5];
+document.write(b.some(fayyaz))
 
-function fayyaz(a){
-   return a > 4
+function fayyaz(b){
+   return b > 4
 }
