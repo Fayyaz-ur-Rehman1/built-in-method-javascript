@@ -1,2 +1,2 @@
-var a = ['fayyaz','khilji','uzair','danish']
-document.write(a.sort())
+var b = ['fayyaz','khilji','uzair','danish']
+document.write(b.sort())
