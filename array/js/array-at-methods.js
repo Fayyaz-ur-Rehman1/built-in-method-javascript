@@ -5,3 +5,8 @@ document.write("<br>")
 
 var b = [10,20,30,40,50,60,70,80,90,]
 document.write(b.at(7))
+
+document.write("<br>")
+
+var g = ['fayyaz','khilji','ur','rehman']
+document.write(g.at(3))
