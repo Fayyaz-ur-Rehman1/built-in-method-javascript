@@ -1,3 +1,3 @@
- var a = ['fayyaz','sohib','danish','uziar']
+ var a = ['fayyaz','khilji','danish','uziar']
  a.shift()
  document.write(a)
