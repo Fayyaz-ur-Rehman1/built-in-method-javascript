@@ -1,4 +1,4 @@
-var a = ['fayyaz','khilji','uzair']
-document.write(a +"<br>")
-a.unshift("my name is ")
-document.write(a)
+var c = ['fayyaz','khilji','uzair']
+document.write(c +"<br>")
+c.unshift("my name is ")
+document.write(c)
