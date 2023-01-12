@@ -1,4 +1,4 @@
 var a = ['fayyaz','khilji','chouhan','khan','lion','hourse']
 document.write(a + "<br>")
-var b = a.copyWithin(3,1,5)
+var b = a.copyWithin(1,3)
 document.write(b)
