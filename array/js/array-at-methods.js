@@ -10,3 +10,8 @@ document.write("<br>")
 
 var g = ['fayyaz','khilji','ur','rehman']
 document.write(g.at(3))
+
+document.write("<br>")
+
+var k = ['fayyaz','danish','uzair']
+document.write(k.at(1))
