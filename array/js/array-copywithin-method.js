@@ -1,5 +1,4 @@
-const khilji = ["fayyaz","khilji","uzair","khan","danish","chouhan"]
-document.write(khilji+ "<br>")
-document.write(khilji.copyWithin(1,3,3))
-document.write()
-
+var a = ['fayyaz','khilji','chouhan','khan','lion','hourse']
+document.write(a + "<br>")
+var b = a.copyWithin(3,1,5)
+document.write(b)
