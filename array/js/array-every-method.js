@@ -6,13 +6,13 @@
 //     return a >= 1
 // }
 // document.write("<hr>")
-// const c = [10,20,30,40,50,60,70,80,90]
-// document.write(c +"<br>")
-// document.write(c.every(d))
+const c = [10,20,30,40,50,60,70,80,90]
+document.write(c +"<br>")
+document.write(c.every(d))
 
-// function d(c){
-//     return c <= 100
-// }
+function d(c){
+    return c <= 100
+}
 
 var a = [1,2,3,4,5,6,7]
 document.write(a.every(function(d){

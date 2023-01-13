@@ -1,11 +1,32 @@
-// var a = [1,2,3,4,5,6,7,8,9,10]
-// var c = a.map(function (eachVal ){
-//     return eachVal + 3
-// });
-// console.log(c)
-
-// var d = [10,20,30,40,50,60,70,80,90,100]
-// var e = d.filter(function (fayyaz){
-//     return fayyaz <= 30
+// var a = [10,20,30,40,50,60,70,80,90]
+// var b = a.find(function(a){
+//     return a > 69
 // })
-//  console.log(e)
+// document.write(b)
+
+// var a = [10,20,30,40,50,60,70,80,90]
+// var b = a.findIndex(function(r){
+//     return r > 60
+// })
+// document.write(b)
+
+// var a = [10,20,30,40,50,60,70,80,90]
+// var b = a.findLast(function(r){
+//     return r < 20
+// })
+// document.write(b)
+
+// var a = [10,20,30,40,50,60,70,80,90]
+// var b = a.findLastIndex(function(r){
+//     return r > 46
+// })
+// console.log(b)
+
+// var a = ['khilji','fayyaz','chouhan','danish','khilji','uzair']
+// var b = a.indexOf('khilji',4)
+// document.write(b)
+
+
+var a = ['khilji','fayyaz','chouhan','danish','khilji','uzair','ayyaz']
+var b = a.lastIndexOf('khilji',5)
+document.write(b)
