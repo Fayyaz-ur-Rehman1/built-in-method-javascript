@@ -5,3 +5,7 @@ document.write("<br>")
 var c = "My Name Is Fayyaz Ur Rehmen"
 var d = /[A-Z]/g
 document.write(c.match(d))
+document.write("<br>")
+var e = "i Am very Best Circkter"
+var f = /[A-Z]/g
+document.write(e.match(f))
