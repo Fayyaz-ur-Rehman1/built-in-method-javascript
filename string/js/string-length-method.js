@@ -7,5 +7,6 @@ var b = "fayyaz ur rehman "
 document.write(b.length)
 
 document.write("<br>")
+
 var c = 'my name is fayyazurrehman'
 document.write(c.length)
