@@ -4,6 +4,6 @@ document.write(a.at(10));
 document.write("<br>")
 var a = "hlwguys";
 document.write(a.at(3));
-
+document.write("<br>")
 var a = "my name is danish chouhan"
 document.write(a.at(11))

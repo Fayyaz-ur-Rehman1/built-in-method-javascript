@@ -2,7 +2,7 @@ var a = 'fayyaz'
 var b = 'fayaz'
 document.write(a.length === b.length)
 document.write("<br>")
-var aa = a.normalize('NFD')
+var aa = a.normalize('NFC')
 var bb = a.normalize('NFD')
 document.write(aa.length === bb.length)
 document.write("<br>")
