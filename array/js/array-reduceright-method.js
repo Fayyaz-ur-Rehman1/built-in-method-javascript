@@ -1,4 +1,6 @@
-var a = [[1,2],[3,4],[5,6]]
-var b = a.reverse()
-var fay = a.reduceRight((b,c) => b.concat(c));
-document.write(fay)
+ var c = [1,2,3,4,5];
+ document.write(c.reduceRight(khilji))
+
+ function khilji(c,d){
+    return c * d
+ }

@@ -27,6 +27,6 @@
 // document.write(b)
 
 
-var a = ['khilji','fayyaz','chouhan','danish','khilji','uzair','ayyaz']
-var b = a.lastIndexOf('khilji',5)
-document.write(b)
+// var a = ['khilji','fayyaz','chouhan','danish','khilji','uzair','ayyaz']
+// var b = a.lastIndexOf('khilji',5)
+// document.write(b)
