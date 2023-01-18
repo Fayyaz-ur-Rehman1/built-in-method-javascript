@@ -1,5 +1,6 @@
 var a = {}
 Object.defineProperty(a, 'fayyaz',{
-    value : "fayyazurrehman"
+    value : "fayyazurrehman",
+    fayyaz : 'khilji'
 })
-document.write(a.fayyaz)
+console.log(a.fayyaz)

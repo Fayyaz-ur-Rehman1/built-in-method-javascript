@@ -1,6 +1,9 @@
-var a = {
-    aa : 1000
+var d = {
+ aa : 55,
+ fayyaz : 17,
+ fayyaz : "khilji",
 }
-Object.freeze(a)
-a.aa = 55
-console.log(a);
+
+const val = Object.freeze(d)
+val.fname = 'shanwaz'
+console.log(d)

@@ -1,7 +1,7 @@
 var a = {
-    name : "fayyaz"
-
+    name : "fayyaz",
+    writable : false
 }
+a.name = 'shanwaz'
 var b = Object.getOwnPropertyDescriptor(a,"name")
-
-document.write(b.configurable)
+console.log(a)

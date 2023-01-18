@@ -1,10 +1,11 @@
 var a = {}
-Object.defineProperties(a,{
-  fayyaz:{
-    value : "fayyazurrehman",
-  },
-  danish :{
- value : "danishchouhan"
-  }
+Object.defineProperty(a,"fayyaz",{
+  value : 43
 })
-document.write(a.fayyaz)
+console.log(a)
+
+var b = {}
+Object.defineProperty(b,"danish",{
+  value : 17,
+})
+console.log(b)

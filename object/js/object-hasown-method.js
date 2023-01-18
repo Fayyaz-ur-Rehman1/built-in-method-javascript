@@ -1,4 +1,7 @@
 var a = {
     name : "fayaz"
 }
-document.write(Object.hasOwn(a,"name"))
+const b = {
+
+}
+console.log(Object.hasOwn(a,'name'))

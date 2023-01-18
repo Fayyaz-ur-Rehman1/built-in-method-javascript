@@ -1,7 +1,20 @@
 var a = new Map([
     ["name","fayyaz"],
-    ["age","18"]
+    ["age","19"]
 ])
-var b = Object.fromEntries(a)
-document.write(b.age)
-console.log(b)
+console.log(Object.fromEntries(a))
+
+var b =  new Map([
+    ['fayyaz','khilji'],
+    ['danish','chouhan']
+])
+          
+console.log(Object.fromEntries(b))
+
+
+var c =  new Map([
+    ['khan','shan'],
+    ['khilji','chouhan']
+])
+          
+console.log(Object.fromEntries(c))

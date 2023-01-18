@@ -2,4 +2,4 @@ var a = {
     a : "fayyaz",
     b : "danish"
 };
-document.write(Object.getOwnPropertyNames(a));
+console.log(Object.getOwnPropertyNames(a))
