@@ -42,3 +42,4 @@ console.log(c)
 for(var d = 0 ; d < c.length ; a++){
     document.write(c[d].myname + " ")
 }
+

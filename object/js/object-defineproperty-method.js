@@ -4,3 +4,10 @@ Object.defineProperty(a, 'fayyaz',{
     fayyaz : 'khilji'
 })
 console.log(a.fayyaz)
+
+var b = {}
+Object.defineProperty(b,'khilji',{
+    value : 'adnanchouhan',
+    fayyaz : 'urrehman'
+})
+console.log(b.khilji)

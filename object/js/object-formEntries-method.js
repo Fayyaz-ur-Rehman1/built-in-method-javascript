@@ -18,3 +18,9 @@ var c =  new Map([
 ])
           
 console.log(Object.fromEntries(c))
+
+var d = ([
+    ['fayyaz','khilji'],
+    ['danish','chouhan']
+])
+console.log(Object.fromEntries(d))

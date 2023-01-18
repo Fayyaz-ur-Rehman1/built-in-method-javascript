@@ -12,11 +12,13 @@ me.printIntroduction();
 
 var a = {
   a : 'fayyaz',
-  b: 'khilji'
+  b: 'khilji',
+  c : 'fayyaz'
 }
 var c = Object.create(a)
 c.class = '11th'
 c.school = 'molana'
 c.sub = 'commerce'
+c.name = 'fayyaz'
 
 console.log(c)

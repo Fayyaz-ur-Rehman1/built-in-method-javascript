@@ -8,7 +8,12 @@ const h = {e: "fayyaz",f: 16}
 const i = Object.assign(d,h)
 console.log(i)
 
-const j = {k : 109, l : 193, }
-const k = {k:"fayyaz",l:"khilji"}
+const j = {k : 109, f : 193, }
+const k = {k:"fayyaz",k:"khilji"}
 const l = Object.assign(j,k)
 console.log(l)
+
+const x  = {a : 'uziar', b : 'adnan'}
+const y = {a : 'fayyaz', b : 'danish'}
+const z = Object.assign(x,y)
+console.log(z)
