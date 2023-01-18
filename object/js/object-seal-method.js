@@ -3,4 +3,6 @@ var a = {
 }
 Object.seal(a)
 a.aa = 11
+a.aa = "fayyaz"
+a.fanme = "khilji"
 console.log(a)
