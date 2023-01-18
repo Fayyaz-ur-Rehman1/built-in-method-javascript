@@ -1,7 +1,20 @@
 var a = {
-    name : "fayyaz",
-    writable : false
+    fayyaz : "fayyaz",
+    country : 'india'
 }
-a.name = 'shanwaz'
-var b = Object.getOwnPropertyDescriptor(a,"name")
-console.log(a)
+var b = Object.getOwnPropertyDescriptor(a,"fayyaz",)
+console.log(b.configurable)
+
+var d = {
+    khilji : 'danish',
+    country : 'america'
+}
+var e = Object.getOwnPropertyDescriptor(d,'khilji',)
+console.log(e.configurable)
+
+var f = {
+    fname : 'fayyaz',
+    lname : 'khilji',
+}
+var g = Object.getOwnPropertyDescriptor(d,"firstname",)
+console.log(g.configurable)

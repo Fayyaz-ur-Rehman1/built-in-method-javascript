@@ -1,7 +1,7 @@
 var a = {
     name : "fayaz"
 }
-const b = {
-
+var  c = {
+  name: "fayyaz"
 }
-console.log(Object.hasOwn(a,'name'))
+console.log(Object.hasOwn(c,'name'))
