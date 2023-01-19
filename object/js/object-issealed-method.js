@@ -3,4 +3,4 @@ var a = {
 }
 Object.seal(a)
 a.aa = "fayyaz"
-console.log(Object.isSealed(a))
+console.log(Object.isSealed(a)) 
