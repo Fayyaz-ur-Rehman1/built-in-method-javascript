@@ -15,4 +15,5 @@ document.write("<br>")
 
 var k = ['fayyaz','danish','uzair']
 document.write(k.at(1))
+//indivisable => har ek khud se
 
